@@ -1,2 +1,0 @@
-# CSSGridDemo
-Created with CodeSandbox
